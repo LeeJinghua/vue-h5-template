@@ -32,6 +32,13 @@ export default {
             name: 'About'
           },
           icon: 'user-o'
+        },
+        {
+          title: '排队查询',
+          to: {
+            name: 'CeeTesterList'
+          },
+          icon: 'user-o'
         }
       ]
     }
